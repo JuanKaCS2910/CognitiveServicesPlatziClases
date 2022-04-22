@@ -8,7 +8,7 @@ namespace Translation
 {
     class Program
     {
-        static readonly string speech_sucriptionKey = "";
+        static readonly string speech_sucriptionKey = "8c979d42db1b4f368ff888dafd686b92";
         static readonly string speech_serviceRegion = "BrazilSouth";
         async static Task Main()
         {
@@ -41,6 +41,6 @@ namespace Translation
             }
 
         }
-        //8c979d42db1b4f368ff888dafd686b92
+        //
     }
 }
