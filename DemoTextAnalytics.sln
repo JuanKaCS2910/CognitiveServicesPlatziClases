@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation", "Translation\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakerRecognition", "SpeakerRecognition\SpeakerRecognition.csproj", "{0B25A9E7-C5F6-4A59-8DD4-84F3FE44B8B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerVisionDemo", "ComputerVisionDemo\ComputerVisionDemo.csproj", "{BA6542E3-45AA-4A3A-AAA7-0A1B591FDF6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0B25A9E7-C5F6-4A59-8DD4-84F3FE44B8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B25A9E7-C5F6-4A59-8DD4-84F3FE44B8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B25A9E7-C5F6-4A59-8DD4-84F3FE44B8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6542E3-45AA-4A3A-AAA7-0A1B591FDF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6542E3-45AA-4A3A-AAA7-0A1B591FDF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6542E3-45AA-4A3A-AAA7-0A1B591FDF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6542E3-45AA-4A3A-AAA7-0A1B591FDF6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
